@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wendell Suazo a third-year college student</h1>
+<h1 align="center">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendell1101&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wendell1101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wendell1101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wendell-suazo-8339251aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wendell1101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wendell-suazo-8339251aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wendell1101" height="30" width="40" /></a>
 <a href="https://fb.com/wendell1101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wendell1101" height="30" width="40" /></a>
 <a href="https://instagram.com/wendell_suazo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wendell_suazo" height="30" width="40" /></a>
 </p>
