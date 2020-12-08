@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h3>
+<h2 align="center">A passionate full stack developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendell1101&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendell1101" alt="wendell1101" /></a> </p>
 
-- 🔭 I’m currently working on [my ecommerce project in Laravel 7](http://enrico-merchandise.herokuapp.com/)
+- 🔭 I’m currently working on Laravel and Vue Js projects
 
-- 🌱 I’m currently learning **Vue JS to create a full stack application with Laravel as the server-side language**
+- 🌱 I’m trying to integrate ** Vue JS to create a full stack application with Laravel as the server-side language** . I've made some projects before using Django and React Js. I'm hoping to learn and learn as I can to polished my skills 	😂 :joy:
 
 - 👯 I’m looking to collaborate on **anyone**
 
