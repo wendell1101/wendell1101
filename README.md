@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and I'll do my best to help you
 
 ## Connect with me:
-  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png) </a>
-  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-16x16.png) </a>
-  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-16x16.png) </a>
+  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png) </a>
+  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png) </a>
+  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png) </a>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love watching techy stuffs, watching anime, and mind games
