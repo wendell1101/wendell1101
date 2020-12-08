@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h3>
-<h2 align="center">A passionate full stack developer</h2>
+<h3 align="left">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h3>
+<h2 align="left">A passionate full stack developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendell1101&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on Laravel and Vue Js projects
 
-- 🌱 I’m trying to integrate ** Vue JS to create a full stack application with Laravel as the server-side language** . I've made some projects before using Django and React Js. I'm hoping to learn and learn as I can to polished my skills 	😂 :joy:
+- 🌱 I’m trying to integrate ** Vue JS to create a full stack application with Laravel as the server-side language** . I've made some projects before using Django and React Js. I'm hoping to learn as much as I can to polished my skills in web-development	😂 
 
-- 👯 I’m looking to collaborate on **anyone**
+- 👯 I’m looking to collaborate on **anyone** interested in learning with me specially in my old and upcoming projects
 
 - 👨‍💻 All of my projects are available at [https://personalsite-v1.netlify.app/](https://personalsite-v1.netlify.app/)
 
 - 💬 Ask me about **anything and I'll do my best to help you**
 
-- 📫 How to reach me **wendellchansuazo11@gmail.com**
+- 📫 You can just email me **wendellchansuazo11@gmail.com** if you have concerns
 
-- ⚡ Fun fact **I love watching techy stuffs, anime and mind games**
+- ⚡ Fun fact **I love watching techy stuffs, anime and playing RPG games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
