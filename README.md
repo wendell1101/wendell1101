@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anyone who has an interest to learn with me
 - 🤔 I’m looking for help with some of my old and upcoming projects
 - 💬 Ask me about anything and I'll do my best to help you
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  ![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-16x16.png)
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love watching techy stuffs, watching anime, and mind games
