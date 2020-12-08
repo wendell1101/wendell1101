@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **anyone** interested in learning with me specially in my old and upcoming projects
 
-- 👨‍💻 All of my projects are available at [personal site](https://wendell1101-personalsite-v1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://wendell1101-personalsite-v1.netlify.app/](https://wendell1101-personalsite-v1.netlify.app/)
 
 - 💬 Ask me about **anything and I'll do my best to help you**
 
