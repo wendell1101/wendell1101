@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and I'll do my best to help you
 
 ## Connect with me:
-  ![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-16x16.png)
+  <a href="test.html">![Image of youtube](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-16x16.png) </a>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love watching techy stuffs, watching anime, and mind games
