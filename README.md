@@ -8,7 +8,7 @@
 
 - 🌱 I’m trying to integrate Vue JS to create a full stack application with Laravel as the server-side language . I've made some projects before using Django and React Js. I'm hoping to learn as much as I can to polish my skills in web-development	😂 
 
-- 👯 I’m looking to collaborate on **anyone** interested in learning with me specially in my old and upcoming projects
+- 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
 - 👨‍💻 All of my projects are available at [https://wendell1101-personalsite-v1.netlify.app/](https://wendell1101-personalsite-v1.netlify.app/)
 
