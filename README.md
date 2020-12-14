@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Laravel and Vue Js projects
 
-- 🌱 I’m trying to integrate Vue JS to create a full stack application with Laravel as the server-side language . I've made some projects before using Django and React Js. I'm hoping to learn as much as I can to polish my skills in web-development	😂 
+- 🌱 I’m trying to integrate Vue JS to create a full stack application with Laravel as the server-side language . I'm also practicing my web-design skills using by creating prototypes for my projects. I've tried  Django and React Js before with some projects too. I'm hoping to learn as much as I can to polish my skills in web-development	😂 
 
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
