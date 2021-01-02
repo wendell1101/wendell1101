@@ -37,7 +37,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendell1101" alt="wendell1101" /></a> </p>
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1080vVTssJJVlKMKV1RDLX2eYd6JxfEmo/view?usp=sharing" width="350" title="programmingStats2020">
-</p>
-
