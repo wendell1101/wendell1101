@@ -37,4 +37,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendell1101" alt="wendell1101" /></a> </p>
 
+<p><img src="https://drive.google.com/uc?export=download&id=1080vVTssJJVlKMKV1RDLX2eYd6JxfEmo" alt="wakatime2020stats" />
 
