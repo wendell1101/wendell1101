@@ -8,6 +8,7 @@
 
 - 🌱 I’m trying to integrate Vue JS to create a full stack application with Laravel as the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I've tried  Django and React Js before with some projects too. I'm hoping to learn as much as I can to polish my skills in web-development	😂 
 
+- I just started to make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
 - 👨‍💻 All of my projects are available at [https://wendell1101-personal-sitev2.netlify.app/](https://wendell1101-personal-sitev2.netlify.app/)
