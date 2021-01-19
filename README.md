@@ -1,4 +1,4 @@
-[My Website](https://wendellsuazo.netlify.app/)
+[My Website](https://wendell-suazo.netlify.app/)
 
 <h3 align="left">Hi 👋, I'm Wendell Suazo a third-year college student from Polytechnic University of the Philippines</h3>
 <h2 align="left">A passionate full stack developer</h2>
@@ -13,7 +13,7 @@
 - I just started to make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
-- 👨‍💻 All of my projects are available at [https://wendellsuazo.netlify.app/](https://wendellsuazo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://wendell-suazo.netlify.app/](https://wendell-suazo.netlify.app/)
 
 - 💬 Ask me about anything and I'll do my best to help you
 
