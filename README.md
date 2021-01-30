@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendell1101&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
 
 
-- 🔭 I’m currently working on Laravel and Vue Js projects
+- 🔭 Torn between React -60%  or Vue -40% 😂 
 
 - 🌱 As of the moment I'm trying to learn React JS, the best javascript framework that I've tried so far. I also have knowledge  of using Vue JS as well as Laravel for the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I'm hoping to dive and learn as much as I can to these web technologies to polish my skills in web-development	😂 
 
