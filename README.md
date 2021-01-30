@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Laravel and Vue Js projects
 
-- 🌱 I’m trying to integrate Vue JS to create a full stack application with Laravel as the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I've tried  Django and React Js before with some projects too. I'm hoping to learn as much as I can to polish my skills in web-development	😂 
+- 🌱 As of the moment I'm trying to learn React JS, the best javascript framework that I've tried so far. I also have knowledge  of using Vue JS as well as Laravel for the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I'm hoping to dive and learn as much as I can to these web technologies to polish my skills in web-development	😂 
 
 - I just started to make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
