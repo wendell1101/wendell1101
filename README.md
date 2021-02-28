@@ -43,7 +43,7 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <br />
 
-
+ <br /> <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendell1101&show_icons=true&locale=en&layout=compact" alt="wendell1101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendell1101&show_icons=true&locale=en" alt="wendell1101" /></p>
