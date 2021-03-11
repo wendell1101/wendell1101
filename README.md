@@ -10,7 +10,9 @@
 
 - 🌱 As of the moment I'm trying to learn React JS, the best javascript framework that I've tried so far. I also have knowledge  of using Vue JS as well as Laravel for the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I'm hoping to dive and learn as much as I can to these web technologies to polish my skills in web-development	😂 
 
-- I just started to make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
+- I just started to learn android development using java as well 😂 
+
+- I make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
 - 👨‍💻 All of my projects are available at [https://wendell-suazo.netlify.app/](https://wendell-suazo.netlify.app/)
