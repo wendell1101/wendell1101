@@ -8,9 +8,7 @@
 
 - 🔭 Currently focusing in php/laravel projects
 
-- 🌱 As of the moment I'm trying to learn React JS, the best javascript framework that I've tried so far. I also have knowledge  of using Vue JS as well as Laravel for the server-side language . I'm also practicing my web-design skills by creating prototypes for my projects. I'm hoping to dive and learn as much as I can to these web technologies to polish my skills in web-development	😂 
-
-- I just started to learn android development using java as well 😂 
+- I can do front end development using HTML, CSS and Javascript. I am familiar with frameworks/libraries/tools such as bootstrap, jquery, and SASS. I am also capable of backend development. I have knowledge of using php, Laravel and MYSQL.
 
 - I make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
