@@ -10,7 +10,6 @@
 
 - I can do front end development using HTML, CSS and Javascript. I am familiar with frameworks/libraries/tools such as bootstrap, jquery, and SASS. I am also capable of backend development. I have knowledge of using php, Laravel and MYSQL.
 
-- I make programming tutorials in youtube check my videos here : https://www.youtube.com/channel/UCprablWZYWvHOMGL49yweOA
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
 - 👨‍💻 All of my projects are available at [https://wendell-suazo.netlify.app/](https://wendell-suazo.netlify.app/)
