@@ -1,6 +1,6 @@
 [My Website](https://wendell-suazo.netlify.app/)
 
-<h3 align="left">Hi 👋, I'm Wendell Suazo a Full Stack Developer</h3>
+<h3 align="left">Hi 👋, I'm Wendell Suazo</h3>
 <h2 align="left">A passionate full stack developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendell1101&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
