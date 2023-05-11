@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on anyone interested in learning with me specially in my old and upcoming projects
 
-- 👨‍💻 All of my projects are available at [https://wendell-suazo.netlify.app/](https://wendell-suazo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://wendell1101.github.io/](https://wendell1101.github.io/)
 
 - 💬 Ask me about anything and I'll do my best to help you
 
